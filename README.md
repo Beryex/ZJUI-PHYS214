@@ -1,5 +1,5 @@
 # PHYS 214: Univ Physics: Thermal Physics @ ZJUI Spring 2023 by Bryan Wang
-[Bryan Wang](WangBoyao.02@outlook.com) | PHYS 214: Univ Physics: Thermal Physics, Spring 2023  
+[Bryan Wang](https://github.com/Wang-Boyao) | PHYS 214: Univ Physics: Thermal Physics, Spring 2023  
 Instructor:   
 [陈文超](https://zjui.intl.zju.edu.cn/node/761) @ Zhejiang University - University of Illinois Urbana-Champaign Institute  
 
